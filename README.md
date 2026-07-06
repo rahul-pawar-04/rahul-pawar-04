@@ -18,9 +18,10 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
+
 ### Programming
-- Python
-- SQL
+ - Python
+ - SQL
 
 ### Data Science
 - Pandas
