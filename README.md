@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul Pawar
 
-<!--
-**rahul-pawar-04/rahul-pawar-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 TY B.Sc. Data Science Student  
+📍 Navi Mumbai, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning Data Science & Machine Learning
+- 💻 Interested in AI, Python and Data Analytics
+- 📊 Building real-world Data Science projects
+- 🎯 Looking for Internship Opportunities
+
+---
+
+## 🛠️ Skills
+
+### Programming
+- Python
+- SQL
+
+### Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+### Tools
+- Power BI
+- Excel
+- Git
+- GitHub
+- Jupyter Notebook
+
+---
+
+## 📂 My Projects
+- 🌍 Air Quality Dashboard 
+- 🌍 Air Quality Analysis
+- 📈 Sales Forecasting
+- 📈 Churn Prediction 
+- ❤️ Heart Disease Prediction (Coming Soon)
+- 🎬 Netflix Data Analysis (Coming Soon)
+- 📈 House Price Prediction (Coming Soon)
+---
+
+## 📫 Contact Me
+
+📧 Email: rahulpawar200604@gmail.com
+
+⭐ Thanks for visiting my profile!
