@@ -15,7 +15,9 @@
 ---
 
 ## 🛠️ Skills
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 ### Programming
 - Python
 - SQL
@@ -50,10 +52,3 @@
 ## 📫 Contact Me
 
 📧 Email: rahulpawar200604@gmail.com
-
-⭐ Than
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-pawar-04&show_icons=true&theme=tokyonight)
