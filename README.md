@@ -32,7 +32,9 @@
 - Git
 - GitHub
 - Jupyter Notebook
-
+- Tableau
+- R Studio
+  
 ---
 
 ## 📂 My Projects
