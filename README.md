@@ -54,6 +54,4 @@
 
 📧 Email: rahulpawar200604@gmail.com
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-pawar-04&show_icons=true&theme=tokyonight)
+⭐ Thanks for visiting my profile!
